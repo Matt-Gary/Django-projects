@@ -16,5 +16,8 @@ To access the API, run the Django development server and navigate to the specifi
 * List and create books: http://127.0.0.1:8000/api/books/
 * Retrieve, update, and delete a specific book: http://127.0.0.1:8000/api/books/{book_id}/
 * Replace `{book_id}` with the desired book's ID.
+
+![image](https://github.com/Matt-Gary/Django-projects/assets/121462847/8af3869a-13e8-4e72-af4f-df627a92f9be)
+
 ## Conclusion
 This project serves as a foundation for a bookstore API and demonstrates the power and simplicity of Django and Django Rest Framework. It provides a solid starting point for further enhancements and customization in the realm of web development.
