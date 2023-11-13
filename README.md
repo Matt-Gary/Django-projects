@@ -1,2 +1,5 @@
 # Django-projects
-Creating back-end solutions 
+
+
+Creating back-end solutions using DJANGO 
+
